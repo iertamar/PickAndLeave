@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:WalmartGo.xcodeproj">
+      location = "self:/Users/a0m03o1/Desktop/xcode_program/PickAndLeave/PickAndLeave.xcodeproj">
    </FileRef>
 </Workspace>

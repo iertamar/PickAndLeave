@@ -7,18 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7545E8502236A6FA00B2FAC8 /* payloadCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7545E84F2236A6FA00B2FAC8 /* payloadCell.swift */; };
+		7545E8522236A76800B2FAC8 /* header.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7545E8512236A76800B2FAC8 /* header.swift */; };
+		7545E8542236A77400B2FAC8 /* footer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7545E8532236A77400B2FAC8 /* footer.swift */; };
+		7545E8582236B98D00B2FAC8 /* getProductApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7545E8572236B98D00B2FAC8 /* getProductApi.swift */; };
+		7545E85A2236B9B600B2FAC8 /* constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7545E8592236B9B600B2FAC8 /* constant.swift */; };
+		7545E85D2236BA8500B2FAC8 /* ProductResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7545E85C2236BA8500B2FAC8 /* ProductResponse.swift */; };
+		7545E85F2237367A00B2FAC8 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7545E85E2237367A00B2FAC8 /* SecondViewController.swift */; };
+		7545E8612237700D00B2FAC8 /* DeleteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7545E8602237700D00B2FAC8 /* DeleteViewController.swift */; };
+		7545E8632238845E00B2FAC8 /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7545E8622238845E00B2FAC8 /* LogInViewController.swift */; };
+		7545E86522388D0100B2FAC8 /* ScanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7545E86422388D0100B2FAC8 /* ScanViewController.swift */; };
+		7545E8672238C7AD00B2FAC8 /* TokenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7545E8662238C7AD00B2FAC8 /* TokenViewController.swift */; };
+		7545E8692238D23C00B2FAC8 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7545E8682238D23C00B2FAC8 /* Default-568h@2x.png */; };
 		75D482BE2236651E00CC21BE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75D482BD2236651E00CC21BE /* AppDelegate.swift */; };
 		75D482C02236651E00CC21BE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75D482BF2236651E00CC21BE /* ViewController.swift */; };
-		75D482C32236651E00CC21BE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75D482C12236651E00CC21BE /* Main.storyboard */; };
 		75D482C52236651F00CC21BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75D482C42236651F00CC21BE /* Assets.xcassets */; };
 		75D482C82236651F00CC21BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75D482C62236651F00CC21BE /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		75D482BA2236651E00CC21BE /* WalmartGo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WalmartGo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7545E84F2236A6FA00B2FAC8 /* payloadCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = payloadCell.swift; sourceTree = "<group>"; };
+		7545E8512236A76800B2FAC8 /* header.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = header.swift; sourceTree = "<group>"; };
+		7545E8532236A77400B2FAC8 /* footer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = footer.swift; sourceTree = "<group>"; };
+		7545E8572236B98D00B2FAC8 /* getProductApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getProductApi.swift; sourceTree = "<group>"; };
+		7545E8592236B9B600B2FAC8 /* constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = constant.swift; sourceTree = "<group>"; };
+		7545E85C2236BA8500B2FAC8 /* ProductResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductResponse.swift; sourceTree = "<group>"; };
+		7545E85E2237367A00B2FAC8 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		7545E8602237700D00B2FAC8 /* DeleteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteViewController.swift; sourceTree = "<group>"; };
+		7545E8622238845E00B2FAC8 /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
+		7545E86422388D0100B2FAC8 /* ScanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanViewController.swift; sourceTree = "<group>"; };
+		7545E8662238C7AD00B2FAC8 /* TokenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokenViewController.swift; sourceTree = "<group>"; };
+		7545E8682238D23C00B2FAC8 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		75D482BA2236651E00CC21BE /* PickAndLeave.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PickAndLeave.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		75D482BD2236651E00CC21BE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		75D482BF2236651E00CC21BE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		75D482C22236651E00CC21BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		75D482BF2236651E00CC21BE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; wrapsLines = 0; };
 		75D482C42236651F00CC21BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		75D482C72236651F00CC21BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		75D482C92236651F00CC21BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -35,10 +57,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7545E84D2236A61F00B2FAC8 /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				75D482BF2236651E00CC21BE /* ViewController.swift */,
+				7545E85E2237367A00B2FAC8 /* SecondViewController.swift */,
+				7545E8602237700D00B2FAC8 /* DeleteViewController.swift */,
+				7545E8622238845E00B2FAC8 /* LogInViewController.swift */,
+				7545E86422388D0100B2FAC8 /* ScanViewController.swift */,
+				7545E8662238C7AD00B2FAC8 /* TokenViewController.swift */,
+			);
+			path = controller;
+			sourceTree = "<group>";
+		};
+		7545E84E2236A6D700B2FAC8 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				7545E84F2236A6FA00B2FAC8 /* payloadCell.swift */,
+				7545E8512236A76800B2FAC8 /* header.swift */,
+				7545E8532236A77400B2FAC8 /* footer.swift */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		7545E8552236B93F00B2FAC8 /* services */ = {
+			isa = PBXGroup;
+			children = (
+				7545E8572236B98D00B2FAC8 /* getProductApi.swift */,
+			);
+			path = services;
+			sourceTree = "<group>";
+		};
+		7545E8562236B94B00B2FAC8 /* constant */ = {
+			isa = PBXGroup;
+			children = (
+				7545E8592236B9B600B2FAC8 /* constant.swift */,
+			);
+			path = constant;
+			sourceTree = "<group>";
+		};
+		7545E85B2236BA6D00B2FAC8 /* model */ = {
+			isa = PBXGroup;
+			children = (
+				7545E85C2236BA8500B2FAC8 /* ProductResponse.swift */,
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
 		75D482B12236651E00CC21BE = {
 			isa = PBXGroup;
 			children = (
-				75D482BC2236651E00CC21BE /* WalmartGo */,
+				7545E8682238D23C00B2FAC8 /* Default-568h@2x.png */,
+				75D482BC2236651E00CC21BE /* PickAndLeave */,
 				75D482BB2236651E00CC21BE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,30 +116,33 @@
 		75D482BB2236651E00CC21BE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				75D482BA2236651E00CC21BE /* WalmartGo.app */,
+				75D482BA2236651E00CC21BE /* PickAndLeave.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		75D482BC2236651E00CC21BE /* WalmartGo */ = {
+		75D482BC2236651E00CC21BE /* PickAndLeave */ = {
 			isa = PBXGroup;
 			children = (
+				7545E85B2236BA6D00B2FAC8 /* model */,
+				7545E8562236B94B00B2FAC8 /* constant */,
+				7545E8552236B93F00B2FAC8 /* services */,
+				7545E84E2236A6D700B2FAC8 /* view */,
+				7545E84D2236A61F00B2FAC8 /* controller */,
 				75D482BD2236651E00CC21BE /* AppDelegate.swift */,
-				75D482BF2236651E00CC21BE /* ViewController.swift */,
-				75D482C12236651E00CC21BE /* Main.storyboard */,
 				75D482C42236651F00CC21BE /* Assets.xcassets */,
 				75D482C62236651F00CC21BE /* LaunchScreen.storyboard */,
 				75D482C92236651F00CC21BE /* Info.plist */,
 			);
-			path = WalmartGo;
+			path = PickAndLeave;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		75D482B92236651E00CC21BE /* WalmartGo */ = {
+		75D482B92236651E00CC21BE /* PickAndLeave */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 75D482CC2236651F00CC21BE /* Build configuration list for PBXNativeTarget "WalmartGo" */;
+			buildConfigurationList = 75D482CC2236651F00CC21BE /* Build configuration list for PBXNativeTarget "PickAndLeave" */;
 			buildPhases = (
 				75D482B62236651E00CC21BE /* Sources */,
 				75D482B72236651E00CC21BE /* Frameworks */,
@@ -79,9 +152,9 @@
 			);
 			dependencies = (
 			);
-			name = WalmartGo;
+			name = PickAndLeave;
 			productName = WalmartGo;
-			productReference = 75D482BA2236651E00CC21BE /* WalmartGo.app */;
+			productReference = 75D482BA2236651E00CC21BE /* PickAndLeave.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +172,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 75D482B52236651E00CC21BE /* Build configuration list for PBXProject "WalmartGo" */;
+			buildConfigurationList = 75D482B52236651E00CC21BE /* Build configuration list for PBXProject "PickAndLeave" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +185,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				75D482B92236651E00CC21BE /* WalmartGo */,
+				75D482B92236651E00CC21BE /* PickAndLeave */,
 			);
 		};
 /* End PBXProject section */
@@ -124,7 +197,7 @@
 			files = (
 				75D482C82236651F00CC21BE /* LaunchScreen.storyboard in Resources */,
 				75D482C52236651F00CC21BE /* Assets.xcassets in Resources */,
-				75D482C32236651E00CC21BE /* Main.storyboard in Resources */,
+				7545E8692238D23C00B2FAC8 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,22 +208,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7545E85D2236BA8500B2FAC8 /* ProductResponse.swift in Sources */,
+				7545E8542236A77400B2FAC8 /* footer.swift in Sources */,
+				7545E8632238845E00B2FAC8 /* LogInViewController.swift in Sources */,
+				7545E85A2236B9B600B2FAC8 /* constant.swift in Sources */,
+				7545E8672238C7AD00B2FAC8 /* TokenViewController.swift in Sources */,
+				7545E85F2237367A00B2FAC8 /* SecondViewController.swift in Sources */,
+				7545E8582236B98D00B2FAC8 /* getProductApi.swift in Sources */,
+				7545E8522236A76800B2FAC8 /* header.swift in Sources */,
 				75D482C02236651E00CC21BE /* ViewController.swift in Sources */,
+				7545E8502236A6FA00B2FAC8 /* payloadCell.swift in Sources */,
 				75D482BE2236651E00CC21BE /* AppDelegate.swift in Sources */,
+				7545E8612237700D00B2FAC8 /* DeleteViewController.swift in Sources */,
+				7545E86522388D0100B2FAC8 /* ScanViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		75D482C12236651E00CC21BE /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				75D482C22236651E00CC21BE /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		75D482C62236651F00CC21BE /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -284,7 +360,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 75DLCJUK44;
-				INFOPLIST_FILE = WalmartGo/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/PickAndLeave/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -302,7 +378,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 75DLCJUK44;
-				INFOPLIST_FILE = WalmartGo/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/PickAndLeave/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -317,7 +393,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		75D482B52236651E00CC21BE /* Build configuration list for PBXProject "WalmartGo" */ = {
+		75D482B52236651E00CC21BE /* Build configuration list for PBXProject "PickAndLeave" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				75D482CA2236651F00CC21BE /* Debug */,
@@ -326,7 +402,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		75D482CC2236651F00CC21BE /* Build configuration list for PBXNativeTarget "WalmartGo" */ = {
+		75D482CC2236651F00CC21BE /* Build configuration list for PBXNativeTarget "PickAndLeave" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				75D482CD2236651F00CC21BE /* Debug */,
